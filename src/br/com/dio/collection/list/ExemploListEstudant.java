@@ -1,4 +1,4 @@
 package br.com.dio.collection.list;
 
-public class teste {
+public class ExemploListEstudant {
 }
